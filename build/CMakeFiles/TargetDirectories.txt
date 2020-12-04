@@ -1,4 +1,0 @@
-/home/lxl/work/someip_dev/vsomeip_demo/build/CMakeFiles/rebuild_cache.dir
-/home/lxl/work/someip_dev/vsomeip_demo/build/CMakeFiles/client-example.dir
-/home/lxl/work/someip_dev/vsomeip_demo/build/CMakeFiles/edit_cache.dir
-/home/lxl/work/someip_dev/vsomeip_demo/build/CMakeFiles/service-example.dir
