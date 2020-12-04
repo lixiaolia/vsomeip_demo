@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lxl/work/someip_dev/vsomeip_demo/service-example.cpp
+iomanip
+-
+iostream
+-
+sstream
+-
+vsomeip/vsomeip.hpp
+-
+
