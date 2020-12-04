@@ -4,9 +4,10 @@
 
 #### Dependencies
 
-boost-1.57
+- boost-1.57
 
-vsomeip-2.10.21
+- vsomeip-2.10.21
+
 
 #### Compilation
 
