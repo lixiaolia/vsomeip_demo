@@ -5,7 +5,7 @@
 #include <condition_variable>
 #include <thread>
 
-#include <vsomeip/vsomeip.hpp>
+#include <compat/vsomeip/vsomeip.hpp>
 
 #define SAMPLE_SERVICE_ID 0x1234
 #define SAMPLE_INSTANCE_ID 0x5678
