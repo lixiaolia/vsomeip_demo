@@ -88,7 +88,7 @@ void on_availability(vsomeip::service_t _service, vsomeip::instance_t _instance,
               << "] is "
               << (_is_available ? "available." : "NOT available.")
               << std::endl;
-    condition.notify_one();
+    if (_is_available) { condition.notify_one(); }
 }
 
 int main() {
